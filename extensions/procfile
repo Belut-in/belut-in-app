@@ -1,0 +1,1 @@
+web: gunicorn belut_in_app:app
